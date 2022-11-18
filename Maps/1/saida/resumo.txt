@@ -1,0 +1,5 @@
+Movimento 2 (d) fez a cobra crescer para o tamanho 2
+Movimento 4 (a) fez a cobra crescer para o tamanho 3
+Movimento 8 (d) fez a cobra crescer para o tamanho 4
+Movimento 9 (s) fez a cobra crescer para o tamanho 5
+Movimento 10 (a) resultou no fim de jogo por conta de colisao

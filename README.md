@@ -11,8 +11,10 @@
  
 - Executar<br>
 ~~~Shell
-chmod +777 run_map_1.sh && run_map_2.sh && run_map_3.sh
-./run_map_1.sh
+make
+make PlayMap1
+make PlayMap2
+make PlayMap3
 ~~~
 <ou run_map_2.sh ou run_map_3.sh>
 
@@ -48,12 +50,9 @@ chmod +777 run_map_1.sh && run_map_2.sh && run_map_3.sh
 
 ---Autor do código: Gabriel Zuany Duarte Vargas<br>
 ---Data: 2022, Agosto<br>
----Versão: 1.2<br>
+---Versão: 1.3<br>
 <br>
----Última atualização: 13/08/2022 (V 1.1 -> V 1.2)<br>
-    --- 1. Code refactoring;<br>
-    --- 2. Separation of functions in created libraries;<br>
-    --- 3.Creation of execution scripts.<br>
-    --- 4.Project folder organization.<br><br>
+---Última atualização: 18/11/2022 (V 1.2 -> V 1.3)<br>
+    --- 1. Substituição de arquivo run.sh por Makefile
     
 =============OPERAVEL, POR ENQUANTO, APENAS NO LINUX;==============

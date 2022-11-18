@@ -1,0 +1,10 @@
+Movimento 21 (d) fez a cobra crescer para o tamanho 2
+Movimento 22 (d) fez a cobra crescer para o tamanho 3
+Movimento 52 (s) fez a cobra crescer para o tamanho 4
+Movimento 53 (s) fez a cobra crescer para o tamanho 5
+Movimento 58 (s) fez a cobra crescer para o tamanho 6
+Movimento 59 (s) fez a cobra crescer para o tamanho 7
+Movimento 69 (w) fez a cobra crescer para o tamanho 8
+Movimento 90 (a) fez a cobra crescer para o tamanho 9
+Movimento 97 (a) fez a cobra crescer para o tamanho 10
+Movimento 102 (s) resultou no fim de jogo por conta de colisao

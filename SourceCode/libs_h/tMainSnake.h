@@ -89,7 +89,7 @@ void Sleep(int tempo);
  * 
  * @return retorna 1 para movimento contrário ou 0 para movimento não contrário.
  */
-int EhMovimentoContrario(char direcao, char direcaoAnterior)
+int EhMovimentoContrario(char direcao, char direcaoAnterior);
 
 
 /**
